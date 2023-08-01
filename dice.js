@@ -25,5 +25,5 @@ function onRefreshButtonClicked() {
     .querySelector(".img2")
     .setAttribute("src", "./images/dice" + playerTwoDiceValue + ".png");
 }
-onRefreshButtonClicked();
+
 
